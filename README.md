@@ -1,4 +1,6 @@
-![GitHub Header Image](https://github.com/user-attachments/assets/3dd2cbeb-9dd2-4092-9d8d-3035a1301b1f)
+
+![github-header-image](https://github.com/user-attachments/assets/b9c4bc56-0de5-42ec-a4ec-b79df62f8065)
+
 
 # 👋 Hi there, I'm Soutrik Mukherjee
 
