@@ -39,8 +39,6 @@ I'm currently pursuing my **MS in Computer Science at Harrisburg University**, s
 - 🔗 [**LinkedIn**](https://linkedin.com/in/soutrik-mukherjee)
 - 📚 [**ResearchGate**](https://www.researchgate.net/profile/Soutrik-Mukherjee-3?ev=hdr_xprf)
 
----
 
-### 📊 GitHub Stats
 
-![Soutrik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoutrikMukherjee&show_icons=true&theme=radical)
+
