@@ -39,7 +39,7 @@ I'm a **Machine Learning** and **AI** specialist currently pursuing my **MS in C
     <td align="center"><a href="https://github.com/SoutrikMukherjee/Housing-Prince-with-Advanced-Data-Manipulation-"><b>🏠 Housing Price Prediction</b></a><br>ML project featuring sophisticated data manipulation techniques for real estate analysis.</td>
      </tr>
   <tr>
-    <td align="center"><a href="https://github.com/SoutrikMukherjee/visualization-project"><b>⚙️ Visualization-Optimization</b></a><br>ML Visualization Project.</td>
+    <td align="center"><a href="https://github.com/SoutrikMukherjee/visualization-project"><b>💡 Visualization-Optimization</b></a><br>ML Visualization Project.</td>
   </tr>
 </table>
 
