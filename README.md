@@ -95,7 +95,10 @@ I'm a **Machine Learning** and **AI** specialist currently pursuing my **MS in C
 - **MS in Computer Science** - Harrisburg University
   - Specialization in Machine Learning and Artificial Intelligence
 
-- **BS in Mechanical Engineering & Robotics** - University of Pennsylvania
+- **MS in Mechanical Engineering & Robotics** - University of Pennsylvania
+  - Focus on Robotics and Computational Engineering
+ 
+- **BTech in Industrial Design** - National Institute of Technology Rourkela (Received the highest Cumulative GPA)
   - Focus on Robotics and Computational Engineering
 
 ## 💼 Skills Breakdown
