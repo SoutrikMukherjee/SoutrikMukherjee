@@ -32,7 +32,8 @@ I'm currently pursuing my **MS in Computer Science at Harrisburg University**, s
 - 🏢 [**HVAC-Optimizer**](https://github.com/SoutrikMukherjee/HVAC-Optimizer): Machine Learning for commercial building energy efficiency.
 - 🧠 [**Topology-Optimization**](https://github.com/SoutrikMukherjee/Topology-Optimization): Structural optimization using advanced numerical methods.
 - 🤑 [**Prediction with Sentiment Analysis**](https://github.com/SoutrikMukherjee/ML-Stock-Price-Prediction): ML Stock Price Prediction Project with Sentiment Analysis
-- 👥 [**Customer Churn Prediction System**](https://github.com/SoutrikMukherjee/Customer-Churn-Prediction-System): The project includes complex SQL queries with joins, aggregations, CTEs, and window functions that extract and transform data from relational databases. 
+- 👥 [**Customer Churn Prediction System**](https://github.com/SoutrikMukherjee/Customer-Churn-Prediction-System): The project includes complex SQL queries with joins, aggregations, CTEs, and window functions that extract and transform data from relational databases.
+- 📖 [**Advanced Data Manipulation**](https://github.com/SoutrikMukherjee/Housing-Prince-with-Advanced-Data-Manipulation-): ML Project: Housing Price Prediction with Advanced Data Manipulation
 
 ---
 
