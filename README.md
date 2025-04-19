@@ -31,7 +31,7 @@ I'm currently pursuing my **MS in Computer Science at Harrisburg University**, s
 - 🔬 [**Brain-Networks**](https://github.com/SoutrikMukherjee/Brain-Networks): Jupyter notebook demonstrating neural network implementations.
 - 🏢 [**HVAC-Optimizer**](https://github.com/SoutrikMukherjee/HVAC-Optimizer): Machine Learning for commercial building energy efficiency.
 - 🧠 [**Topology-Optimization**](https://github.com/SoutrikMukherjee/Topology-Optimization): Structural optimization using advanced numerical methods.
-- 🤑 [**Prediction with Sentiment Analysis**](
+- 🤑 [**Prediction with Sentiment Analysis**](https://github.com/SoutrikMukherjee/ML-Stock-Price-Prediction): ML Stock Price Prediction Project with Sentiment Analysis
 
 ---
 
