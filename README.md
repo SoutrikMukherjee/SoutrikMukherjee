@@ -33,15 +33,13 @@ I'm a **Machine Learning** and **AI** specialist currently pursuing my **MS in C
   <tr>
     <td align="center"><a href="https://github.com/SoutrikMukherjee/Topology-Optimization"><b>⚙️ Topology-Optimization</b></a><br>Structural optimization using advanced numerical methods and computational design.</td>
     <td align="center"><a href="https://github.com/SoutrikMukherjee/ML-Stock-Price-Prediction"><b>📈 ML Stock Prediction</b></a><br>Stock price prediction platform using machine learning and sentiment analysis.</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/SoutrikMukherjee/visualization-project"><b>⚙️ Visualization-Optimization</b></a><br>ML Visualization Project.</td>
-  
-   
    </tr>
   <tr>
     <td align="center"><a href="https://github.com/SoutrikMukherjee/Customer-Churn-Prediction-System"><b>👥 Customer Churn Prediction</b></a><br>Advanced SQL-based system for analyzing and predicting customer retention patterns.</td>
     <td align="center"><a href="https://github.com/SoutrikMukherjee/Housing-Prince-with-Advanced-Data-Manipulation-"><b>🏠 Housing Price Prediction</b></a><br>ML project featuring sophisticated data manipulation techniques for real estate analysis.</td>
+     </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/SoutrikMukherjee/visualization-project"><b>⚙️ Visualization-Optimization</b></a><br>ML Visualization Project.</td>
   </tr>
 </table>
 
