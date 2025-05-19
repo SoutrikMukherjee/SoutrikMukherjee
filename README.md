@@ -3,7 +3,7 @@
 
 ## 👋 About Me
 
-I'm a **Machine Learning** and **AI** specialist currently pursuing my **MS in Computer Science** at **Harrisburg University**. With a strong foundation in **Robotics** and **Mechanical Engineering** from the **University of Pennsylvania**, I bridge the gap between theoretical concepts and practical applications.
+I'm a **Machine Learning** and **AI** specialist currently pursuing my **Master's of Science in Computer Science**. With a strong foundation in **Robotics** and **Mechanical Engineering** from the **University of Pennsylvania**, I bridge the gap between theoretical concepts and practical applications.
 
 ## 🚀 Current Focus
 
