@@ -44,8 +44,9 @@ I'm a **Machine Learning** and **AI** specialist currently pursuing my **Master'
   <tr>
     <td align="center"><a href="https://github.com/SoutrikMukherjee/visualization-project"><b>💡 Visualization-Optimization</b></a><br>ML Visualization Project with advanced data representation techniques.</td>
     
-<td align="center"><a href="https://github.com/SoutrikMukherjee/Finite-Element-using-Machine-Learning"><b>✏️ Finite Element</b></a><be>Finite Element using Machine Learning</td>
-  </tr>
+<td align="center"><a href="https://github.com/SoutrikMukherjee/Finite-Element-using-Machine-Learning"><b>✏️ Finite Element</b></a><br>Finite Element using Machine Learning.</td>
+    </tr>
+  </tr>  
 </table>
 
 ## 📚 Project Details
