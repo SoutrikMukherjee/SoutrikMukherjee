@@ -30,7 +30,7 @@ I'm a **Machine Learning** and **AI** specialist currently pursuing my **Master'
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/SoutrikMukherjee/Brain-Networks"><b>🧠 Brain-Networks</b></a><br>Jupyter notebook demonstrating neural network implementations with real-world applications.</td>
+    <td align="center"><a href="https://github.com/SoutrikMukherjee/Developer-tools-CLI-with-comprehensive-testing-and-deployment-pipeline"><b>🧠 Developer-Tools</b></a><be> A Developer Tool with comprehensive testing and deployment pipeline.</td>
     <td align="center"><a href="https://github.com/SoutrikMukherjee/HVAC-Optimizer"><b>🏢 HVAC-Optimizer</b></a><br>Machine Learning algorithms for commercial building energy efficiency and cost reduction.</td>
   </tr>
   <tr>
