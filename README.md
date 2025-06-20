@@ -39,7 +39,7 @@ I'm a **Machine Learning** and **AI** specialist currently pursuing my **Master'
    </tr>
   <tr>
     <td align="center"><a href="https://github.com/SoutrikMukherjee/Customer-Churn-Prediction-System"><b>👥 Customer Churn Prediction</b></a><br>Advanced SQL-based system for analyzing and predicting customer retention patterns.</td>
-    <td align="center"><a href="https://github.com/SoutrikMukherjee/Housing-Prince-with-Advanced-Data-Manipulation-"><b>🏠 Housing Price Prediction</b></a><br>ML project featuring sophisticated data manipulation techniques for real estate analysis.</td>
+    <td align="center"><a href="https://github.com/SoutrikMukherjee/Theory-of-Computation"><b>🏠 SimpleLang Compiler</b></a><br>A complete compiler implementation for SimpleLang, a statically-typed programming language with C-like syntax.</td>
      </tr>
   <tr>
     <td align="center"><a href="https://github.com/SoutrikMukherjee/visualization-project"><b>💡 Visualization-Optimization</b></a><br>ML Visualization Project with advanced data representation techniques.</td>
