@@ -31,7 +31,7 @@ I'm a **Machine Learning** and **AI** specialist currently pursuing my **Master'
 <table>
   <tr>
     <td align="center"><a href="https://github.com/SoutrikMukherjee/Developer-tools-CLI-with-comprehensive-testing-and-deployment-pipeline"><b>🧠 Developer-Tools</b></a><br> A Developer Tool with comprehensive testing and deployment pipeline.</td>
-    <td align="center"><a href="https://github.com/SoutrikMukherjee/HVAC-Optimizer"><b>🏢 HVAC-Optimizer</b></a><br>Machine Learning algorithms for commercial building energy efficiency and cost reduction.</td>
+    <td align="center"><a href="https://github.com/SoutrikMukherjee/AI-powered-productivity-application-with-modern-full-stack-architecture"><b>🏢 Productivity Application</b></a><br>AI powered productivity application with modern full-stack architecture.</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/SoutrikMukherjee/Topology-Optimization"><b>⚙️ Topology-Optimization</b></a><br>Structural optimization using advanced numerical methods and computational design.</td>
