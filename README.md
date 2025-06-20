@@ -251,7 +251,7 @@
 ### 🏆 **Key Achievements**
 
 - 🥇 **Highest GPA** graduate from NIT Rourkela
-- 📚 **Research publications** in computational methods
+- 📚 **Three first authored research publications** in peer-reviewed international journals
 - 🏅 **95% test coverage** across all major projects
 - 🚀 **Open-source contributions** with 100+ stars
 - 💡 **AI/ML projects** with real-world impact
