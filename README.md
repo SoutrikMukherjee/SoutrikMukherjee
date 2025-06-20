@@ -42,7 +42,7 @@ I'm a **Machine Learning** and **AI** specialist currently pursuing my **Master'
     <td align="center"><a href="https://github.com/SoutrikMukherjee/Theory-of-Computation"><b>🏠 SimpleLang Compiler</b></a><br>A complete compiler implementation for SimpleLang, a statically-typed programming language with C-like syntax.</td>
      </tr>
   <tr>
-    <td align="center"><a href="https://github.com/SoutrikMukherjee/visualization-project"><b>💡 Visualization-Optimization</b></a><br>ML Visualization Project with advanced data representation techniques.</td>
+    <td align="center"><a href="https://github.com/SoutrikMukherjee/Real-Time-Collaborative-Whiteboard/tree/main"><b>💡 Real-Time-Collaborative-Whiteboard</b></a><br>High-performance, real-time collaborative whiteboard with conflict-free editing.</td>
     
 <td align="center"><a href="https://github.com/SoutrikMukherjee/Finite-Element-using-Machine-Learning"><b>✏️ Finite Element Analysis</b></a><br>Finite Element using Machine Learning.</td>
     </tr>
