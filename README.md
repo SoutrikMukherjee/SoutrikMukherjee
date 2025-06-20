@@ -38,7 +38,7 @@
 ### 🌟 Quick Highlights
 
 - 🎓 **MS Computer Science** student at Harrisburg University
-- 🏆 **Highest GPA** graduate from NIT Rourkela 
+- 🏆 **Secured the highest cumulative GPA** as a graduate from NIT Rourkela (Bachelor of Technology) 
 - 🔧 **Full-stack development** with modern web technologies
 - 🤖 **AI/ML integration** in production applications
 - 📚 **Research experience** in neural networks and optimization
@@ -239,7 +239,7 @@
 
 **MS Mechanical Engineering & Robotics**  
 *University of Pennsylvania*  
-*Focus: Computational Engineering*
+*Focus:Robotics & AI*
 
 **BTech Industrial Design**  
 *NIT Rourkela*  
