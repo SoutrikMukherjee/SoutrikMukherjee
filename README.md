@@ -252,9 +252,9 @@
 
 - 🥇 **Highest GPA** graduate from NIT Rourkela
 - 📚 **Three first authored research publications** in peer-reviewed international journals
-- 🏅 **95% test coverage** across all major projects
+- 🏅 **Gold Medal** in the International Mathematics Olympiad
 - 🚀 **Open-source contributions** with 100+ stars
-- 💡 **AI/ML projects** with real-world impact
+- 💡 **95% test coverage** across all major projects
 - 🔧 **Full-stack applications** serving 1000+ users
 
 </td>
