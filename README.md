@@ -86,12 +86,6 @@ I'm a **Machine Learning** and **AI** specialist currently pursuing my **Master'
 - Interactive dashboards for data exploration and model interpretation
 - Implementation of optimization techniques for visual analytics
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoutrikMukherjee&show_icons=true&theme=tokyonight" alt="Soutrik's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoutrikMukherjee&theme=tokyonight" alt="Soutrik's GitHub Streak" />
-</div>
 
 ## 🎓 Education
 
