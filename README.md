@@ -115,113 +115,84 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 1. [Distributed-Control-System-Architecture](https://github.com/SoutrikMukherjee/Distributed-Control-System-Architecture)
+- **Skills Used:** C++, systems architecture, distributed computing
+- **Successes:** Demonstrates knowledge of distributed control systems, C++ proficiency, MIT License
+- **Issues:** No open issues recorded
+- **Improvement Scopes:** Add documentation and usage examples, increase community engagement
 
-### 🔧 [DevForge CLI](https://github.com/SoutrikMukherjee/Developer-tools-CLI-with-comprehensive-testing-and-deployment-pipeline)
-**Enterprise-grade development tool with AI-powered features**
+## 2. [Human-robot-collaboration-with-multimodal-language-models](https://github.com/SoutrikMukherjee/human-robot-collaboration-with-multimodal-language-models)
+- **Skills Used:** HTML, multimodal AI, robotics, human-robot interaction
+- **Successes:** Project structure for integrating multimodal language models
+- **Issues:** No open issues, minimal description
+- **Improvement Scopes:** Expand documentation, add experiment results and usage guides
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-yellow?style=flat-square&logo=vitest&logoColor=white)
+## 3. [Developer-tools-CLI-with-comprehensive-testing-and-deployment-pipeline](https://github.com/SoutrikMukherjee/Developer-tools-CLI-with-comprehensive-testing-and-deployment-pipeline)
+- **Skills Used:** TypeScript, CLI development, automated testing, CI/CD
+- **Successes:** Shows pipeline and CLI tool creation, TypeScript skills
+- **Issues:** No open issues
+- **Improvement Scopes:** Add user guides, share pipeline configurations, collect user feedback
 
-- ⚡ **Project scaffolding** in <30 seconds
-- 🧪 **95% test coverage** with CI/CD pipeline
-- 🔌 **Plugin architecture** for extensibility
-- 🤖 **AI-powered** documentation generation
+## 4. [SoutrikMukherjee](https://github.com/SoutrikMukherjee/SoutrikMukherjee) *(Portfolio)*
+- **Skills Used:** GitHub Actions, markdown, portfolio management
+- **Successes:** Serves as your profile/portfolio
+- **Issues:** Not applicable
+- **Improvement Scopes:** Regularly update with new projects, highlight key achievements
 
-**Impact**: Reduces project setup time by 80%
+## 5. [AI-powered-productivity-application-with-modern-full-stack-architecture](https://github.com/SoutrikMukherjee/AI-powered-productivity-application-with-modern-full-stack-architecture)
+- **Skills Used:** TypeScript, full-stack development, AI integration
+- **Successes:** Modern stack application, demonstrates AI product integration
+- **Issues:** No open issues
+- **Improvement Scopes:** Add deployment instructions, document AI features
 
-</td>
-<td width="50%">
+## 6. [Theory-of-Computation](https://github.com/SoutrikMukherjee/Theory-of-Computation)
+- **Skills Used:** Python, algorithms, computational theory
+- **Successes:** Educational resource for computation theory
+- **Issues:** No open issues
+- **Improvement Scopes:** Add solved examples, enhance documentation
 
-### 🎨 [Real-Time Collaborative Whiteboard](https://github.com/SoutrikMukherjee/Real-Time-Collaborative-Whiteboard)
-**Figma-level collaboration with operational transforms**
+## 7. [Finite-Element-using-Machine-Learning](https://github.com/SoutrikMukherjee/Finite-Element-using-Machine-Learning)
+- **Skills Used:** Python, finite element analysis, machine learning
+- **Successes:** Cross-domain application
+- **Issues:** No open issues
+- **Improvement Scopes:** Add result visualizations, expand ML models
 
-![SvelteKit](https://img.shields.io/badge/-SvelteKit-orange?style=flat-square&logo=svelte&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)
+## 8. [Housing-Prince-with-Advanced-Data-Manipulation-](https://github.com/SoutrikMukherjee/Housing-Prince-with-Advanced-Data-Manipulation-)
+- **Skills Used:** Python, data manipulation, real estate analytics
+- **Successes:** Data project for housing price analysis
+- **Issues:** No open issues
+- **Improvement Scopes:** Add EDA/visualizations, improve README
 
-- 🚀 **<100ms latency** for 50+ concurrent users
-- 🔄 **Conflict-free editing** with OT algorithms
-- 📱 **Offline-first** architecture with auto-sync
-- 👻 **Live cursors** and real-time presence
+## 9. [Customer-Churn-Prediction-System](https://github.com/SoutrikMukherjee/Customer-Churn-Prediction-System)
+- **Skills Used:** Python, ML, data science
+- **Successes:** End-to-end churn prediction pipeline
+- **Issues:** No open issues
+- **Improvement Scopes:** Add model evaluation metrics and dashboard
 
-**Impact**: Supports teams of 50+ users simultaneously
+## 10. [ML-Stock-Price-Prediction](https://github.com/SoutrikMukherjee/ML-Stock-Price-Prediction)
+- **Skills Used:** Python, ML, sentiment analysis, time series
+- **Successes:** Stock prediction and sentiment analysis combined
+- **Issues:** No open issues, but has at least one watcher
+- **Improvement Scopes:** Add backtesting results, document model choices
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+## 11. [HVAC-Optimizer](https://github.com/SoutrikMukherjee/HVAC-Optimizer)
+- **Skills Used:** Python, ML for energy systems
+- **Successes:** Focused on energy efficiency for buildings
+- **Issues:** No open issues
+- **Improvement Scopes:** Add case studies/results, enhance user documentation
 
-### 🤖 [AI Productivity Application](https://github.com/SoutrikMukherjee/AI-powered-productivity-application-with-modern-full-stack-architecture)
-**Modern full-stack app with AI integration**
+## 12. [Topology-Optimization](https://github.com/SoutrikMukherjee/Topology-Optimization)
+- **Skills Used:** Jupyter Notebook, optimization, computational science
+- **Successes:** Large, likely in-depth project
+- **Issues:** No open issues, some subscribers
+- **Improvement Scopes:** Add interactive examples, summarize key findings
 
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+## 13. [Brain-Networks](https://github.com/SoutrikMukherjee/Brain-Networks)
+- **Skills Used:** Jupyter Notebook, neuroscience, network analysis
+- **Successes:** Large codebase, demonstrates advanced analysis
+- **Issues:** No open issues
+- **Improvement Scopes:** Add research outcomes, usage instructions
 
-- 🧠 **AI-powered** task recommendations
-- 📊 **Real-time analytics** dashboard
-- 🔐 **JWT authentication** with role-based access
-- 📱 **Responsive design** with dark mode
-
-**Impact**: 40% improvement in task completion rates
-
-</td>
-<td width="50%">
-
-### 📈 [ML Stock Prediction Platform](https://github.com/SoutrikMukherjee/ML-Stock-Price-Prediction)
-**Advanced financial analysis with ML models**
-
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-purple?style=flat-square&logo=pandas&logoColor=white)
-
-- 📊 **Time-series analysis** with LSTM networks
-- 📰 **Sentiment analysis** of financial news
-- 📱 **Interactive dashboards** for data visualization
-- ⚡ **Real-time predictions** with 85% accuracy
-
-**Impact**: 85% prediction accuracy on test data
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><strong>🔍 View More Projects</strong></summary>
-
-### 🔬 [Customer Churn Prediction System](https://github.com/SoutrikMukherjee/Customer-Churn-Prediction-System)
-- **Advanced SQL analytics** for customer retention
-- **Predictive modeling** with 90% accuracy
-- **Interactive reports** for business insights
-
-### 🏗️ [SimpleLang Compiler](https://github.com/SoutrikMukherjee/Theory-of-Computation)
-- **Complete compiler implementation** from scratch
-- **Lexical analysis, parsing, and code generation**
-- **C-like syntax** with static typing
-
-### ⚙️ [Topology Optimization Engine](https://github.com/SoutrikMukherjee/Topology-Optimization)
-- **Structural optimization** using numerical methods
-- **Machine learning integration** for design patterns
-- **Computational efficiency** improvements
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoutrikMukherjee&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoutrikMukherjee&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoutrikMukherjee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</p>
 
 ---
 
