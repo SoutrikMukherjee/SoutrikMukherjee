@@ -59,7 +59,8 @@ const soutrik = {
 <td width="40%">
 
 ### 📊 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=SoutrikMukherjee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=fbbf24&text_color=a5b4fc&include_all_commits=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SoutrikMukherjee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=fbbf24&text_color=a5b4fc" width="100%" />
+
 
 </td>
 </tr>
