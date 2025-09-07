@@ -1,187 +1,148 @@
 <div align="center">
 
-# **SOUTRIK MUKHERJEE**
-### Building AGI-Ready Systems Today
+# **Hey, I'm Soutrik! 👋**
+### CS Grad Student • Building Things That Matter
 
-<a href="https://github.com/SoutrikMukherjee"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=IMO+GOLD+%E2%80%A2+UPENN+%E2%80%A2+SHIPPING+PRODUCTION+AI;Neural+Compilers+%E2%80%A2+Robotics+%E2%80%A2+Distributed+Systems" alt="Typing SVG" /></a>
+<a href="https://github.com/SoutrikMukherjee"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=80&lines=Robotics+%E2%80%A2+Machine+Learning+%E2%80%A2+Systems;Always+learning%2C+always+building" alt="Typing SVG" /></a>
 
 <p align="center">
-<a href="mailto:soutrik.viratech@gmail.com"><img src="https://img.shields.io/badge/HIRE_ME-soutrik.viratech@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/soutrik-mukherjee"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://calendly.com/soutrik"><img src="https://img.shields.io/badge/BOOK_TIME-30min-00D9FF?style=for-the-badge&logo=google-calendar&logoColor=white" /></a>
+<a href="mailto:soutrik.viratech@gmail.com"><img src="https://img.shields.io/badge/Email-soutrik.viratech@gmail.com-blue?style=flat&logo=gmail" /></a>
+<a href="https://linkedin.com/in/soutrik-mukherjee"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" /></a>
+<a href="https://calendly.com/soutrik"><img src="https://img.shields.io/badge/Chat-30min-green?style=flat&logo=google-calendar" /></a>
 </p>
 
 </div>
 
 ---
 
-<div align="center">
+## **About Me**
 
-## **⚡ WHY I'M DIFFERENT**
+I'm a CS graduate student passionate about building intelligent systems that actually work in the real world. Currently studying at Harrisburg University while working on robotics research at UPenn's GRASP Lab.
 
-</div>
+**What drives me:** The gap between research and reality. I love taking cutting-edge ideas and figuring out how to make them robust enough for real applications.
 
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>🧠 COGNITIVE ELITE</h3>
-<b>IMO Gold Medalist</b><br/>
-Top 0.0001% problem solver<br/>
-<sub>If I can solve olympiad problems,<br/>I can solve your hardest challenges</sub>
-</td>
-<td width="33%" align="center">
-<h3>🚀 SHIPS TO PRODUCTION</h3>
-<b>1000+ Active Users</b><br/>
-Not just papers and prototypes<br/>
-<sub>Real systems, real impact,<br/>real revenue potential</sub>
-</td>
-<td width="33%" align="center">
-<h3>🔬 RESEARCH → PRODUCT</h3>
-<b>3 Published Papers</b><br/>
-50+ citations already<br/>
-<sub>I bridge cutting-edge theory<br/>with scalable engineering</sub>
-</td>
-</tr>
-</table>
+**Current obsession:** Neural network compilers and making AI systems run efficiently on edge devices (because not everything needs a GPU cluster).
 
 ---
 
-## **🎯 FLAGSHIP PROJECTS**
-*Click stars ⭐ to support open-source AI/Robotics*
+## **What I'm Working On**
 
-### **[Neural-Network-Compiler-Framework](https://github.com/SoutrikMukherjee/Neural-Network-Compiler-Framework)** ⭐
-> **Making AI 10x faster** • C++ • Graph Optimization • MLIR
-- Compiles neural networks to optimized machine code
-- **30% faster inference** than TensorFlow Lite on edge devices
-- Powers real-time robotics applications
+### **🤖 [Neural Network Compiler Framework](https://github.com/SoutrikMukherjee/Neural-Network-Compiler-Framework)**
+> Making neural networks run faster on everyday hardware
 
-### **[Human-Robot Collaboration via Multimodal LLMs](https://github.com/SoutrikMukherjee/human-robot-collaboration-with-multimodal-language-models)** ⭐
-> **The future of human-machine interaction** • ROS2 • LLMs • Computer Vision
-- Natural language control of robotic systems
-- **<100ms latency** for real-time operations
-- Featured in robotics conferences
+Started this project after getting frustrated with how slow ML inference was on my Raspberry Pi. Built a compiler that converts PyTorch models to optimized machine code. Still learning MLIR/LLVM but seeing some promising speedups!
 
-### **[Distributed Control System Architecture](https://github.com/SoutrikMukherjee/Distributed-Control-System-Architecture)** ⭐
-> **Industrial-grade distributed systems** • C++ • MPI • Real-time
-- **<10ms latency**, **99.99% uptime**
-- Handles 1M+ messages/second
-- Production-ready for autonomous vehicles
+*Technologies: C++, MLIR, LLVM, Graph Optimization*
 
-### **[ML Stock Price Predictor](https://github.com/SoutrikMukherjee/ML-Stock-Price-Prediction)** ⭐
-> **87% accuracy with sentiment analysis** • LSTM • NLP • Backtesting
-- Combines market data with news sentiment
-- Full backtesting framework included
-- Used by 500+ traders
+### **🔗 [Human-Robot Collaboration System](https://github.com/SoutrikMukherjee/human-robot-collaboration)**
+> Natural language control for robotic systems
+
+Part of my research at UPenn. Working on letting people control robots through natural conversation instead of complex programming. The latency challenges are fascinating and humbling.
+
+*Technologies: ROS2, Python, Computer Vision, NLP*
+
+### **📈 [ML Stock Predictor](https://github.com/SoutrikMukherjee/ML-Stock-Price-Prediction)**
+> Learning about markets through machine learning
+
+Personal project combining financial data with news sentiment analysis. More about understanding how ML works with time series data than getting rich quick 😄. Includes full backtesting because "it works on my laptop" isn't enough.
+
+*Technologies: LSTM, NLP, Python, Backtesting*
+
+### **⚙️ [Distributed Control Systems](https://github.com/SoutrikMukherjee/Distributed-Control-System)**
+> Exploring fault-tolerant industrial systems
+
+Started as a class project, grew into a deep dive into how industrial control systems handle failures. Testing consensus algorithms across multiple VMs to understand what happens when things go wrong.
+
+*Technologies: C++, MPI, Real-time Linux*
 
 ---
 
-## **💻 TECH MASTERY**
+## **My Toolkit**
 
 ```python
-class SoutrikMukherjee:
+class WhatIKnow:
     def __init__(self):
-        self.languages = ["C++", "Python", "TypeScript", "CUDA"]
-        self.ml_frameworks = ["PyTorch", "TensorFlow", "JAX", "Triton"]
-        self.robotics = ["ROS2", "MoveIt", "Gazebo", "Real-time Control"]
-        self.systems = ["Distributed Systems", "Compiler Design", "MLIR", "MPI"]
-        self.shipping = ["Docker", "K8s", "CI/CD", "Production ML"]
+        self.comfortable_with = ["Python", "C++", "MATLAB"]
+        self.learning = ["Rust", "CUDA", "Triton"]
+        self.ml_stack = ["PyTorch", "JAX", "TensorRT"]
+        self.robotics = ["ROS2", "Gazebo", "Real-time Control"]
+        self.interests = ["Compilers", "Distributed Systems", "Edge ML"]
         
-    def current_focus(self):
-        return "Building AGI-ready infrastructure for robotics"
+    def current_challenge(self):
+        return "Making 1kHz control loops actually reliable"
         
-    def superpower(self):
-        return "Turning research papers into production systems in weeks"
+    def what_excites_me(self):
+        return "When theory meets messy reality and still works"
 ```
 
 ---
 
-## **📊 IMPACT SCORECARD**
+## **Background & Journey**
 
-<div align="center">
+- 🎓 **Currently:** MS in Computer Science at Harrisburg University (Scientific Computing focus)
+- 🔬 **Research:** Modular Robotics Lab at UPenn (working on real-time control systems)
+- 🏭 **Previous:** Embedded systems intern at ISRO (learned about aerospace-grade reliability)
+- 📚 **Undergrad:** Design & Manufacturing Engineering at NIT Rourkela
 
-| **METRIC** | **VALUE** | **WHAT IT MEANS** |
-|:---:|:---:|:---|
-| **Research Papers** | 3 | IEEE/ACM published, peer-reviewed |
-| **GitHub Stars** | 100+ | Top 5% open source contributor |
-| **Production Users** | 1,000+ | Real products, not just demos |
-| **System Uptime** | 99.99% | Enterprise-grade reliability |
-| **Code Coverage** | 95%+ | Quality is non-negotiable |
-| **Response Time** | <10ms | Real-time system expertise |
-
-</div>
+**Side story:** Started [MANAV](https://github.com/SoutrikMukherjee/MANAV), a student org in India that teaches programming to kids in government schools. Began when I realized how many talented students had no exposure to technology. Now working with 12 schools - it's become something I'm really proud of.
 
 ---
 
-## **🔮 VISION: THE NEXT 5 YEARS**
+## **Recent Learning**
 
-```mermaid
-graph LR
-    A[2025: ML Engineer] --> B[2027: Tech Lead]
-    B --> C[2029: CTO/Founder]
-    C --> D[2030: AGI Infrastructure]
-    
-    style A fill:#00D9FF
-    style B fill:#00A8CC
-    style C fill:#007799
-    style D fill:#004466
-```
-
-**Building the infrastructure for artificial general intelligence.**
-- Today: Optimizing neural networks and robotic systems
-- Tomorrow: Leading teams building AGI-ready platforms
-- 2030: Running critical AI infrastructure used by millions
+- **Paper I'm digesting:** "Attention Is All You Need" (finally understanding transformers properly)
+- **Current rabbit hole:** GPU kernel programming with Triton
+- **Debug victory:** Finally got my CAN bus communication working reliably (only took 3 weeks 😅)
+- **New appreciation for:** How hard real-time systems actually are
 
 ---
 
-## **🎯 SEEKING: SUMMER 2025 INTERNSHIP**
+## **Looking For**
 
-### **What I Bring Day 1:**
-- ✅ Production ML experience (not just Jupyter notebooks)
-- ✅ Can optimize your inference by 30%+ 
-- ✅ Full-stack + systems programming
-- ✅ Published researcher who ships code
-- ✅ IMO Gold = I solve problems others can't
+🌟 **Summer 2025 Internship** in ML Infrastructure, Robotics, or Systems Programming
 
-### **Ideal Roles:**
-`ML Infrastructure` • `Robotics` • `Compiler Engineering` • `AI Systems` • `Autonomous Vehicles`
+I'm drawn to teams that:
+- Build things people actually use
+- Care about making technology accessible
+- Value learning and iteration over perfection
+- Work on problems that matter
+
+---
+
+## **Fun Facts**
+
+- Used to play cricket competitively (learned about pressure and teamwork)
+- Fascinated by manufacturing processes (yes, I watch factory tours on YouTube)
+- Believer in first principles thinking
+- Coffee enthusiast (essential for debugging distributed systems)
+- Always down to discuss why your favorite programming language is wrong 😄
+
+---
 
 <div align="center">
 
-### **Let's build the future together.**
+### **Let's connect!**
+
+I love talking about technology, research ideas, or just hearing about what you're building.
 
 <a href="https://calendly.com/soutrik">
-<img src="https://img.shields.io/badge/SCHEDULE_INTERVIEW-Available_Now-00FF00?style=for-the-badge&logo=google-meet&logoColor=white" />
+<img src="https://img.shields.io/badge/Schedule_a_chat-Available-green?style=for-the-badge&logo=google-meet" />
 </a>
 
 <a href="mailto:soutrik.viratech@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL_DIRECTLY-soutrik.viratech@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Or_just_email-Direct-blue?style=for-the-badge&logo=gmail" />
 </a>
-
-</div>
 
 ---
 
-<div align="center">
-
-### **Recent Activity**
-
-<!--START_SECTION:activity-->
-🔭 Working on: **Neural compiler optimizations for 100x faster AI inference**  
-🌱 Learning: **Triton for GPU kernel programming**  
-💬 Ask me about: **Making ML models actually work in production**  
-⚡ Fun fact: **I optimize code like I optimize mechanical systems - obsessively**
-<!--END_SECTION:activity-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoutrikMukherjee&theme=default&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoutrikMukherjee&theme=highcontrast&hide_border=true&background=000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+*"The best way to predict the future is to build it."* – Alan Kay
 
 <br/>
 
-**"First principles thinking + relentless execution = exponential impact"**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SoutrikMukherjee&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=SoutrikMukherjee&color=blue&style=flat" />
 
 </div>
