@@ -135,8 +135,6 @@ I love talking about technology, research ideas, or just hearing about what you'
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoutrikMukherjee&theme=default&hide_border=true" />
-
 <br/>
 
 *"The best way to predict the future is to build it."* – Alan Kay
