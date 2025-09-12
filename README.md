@@ -17,7 +17,7 @@
 
 ## **About Me**
 
-I'm a CS graduate student passionate about building intelligent systems that actually work in the real world. Currently studying at Harrisburg University while working on robotics research at UPenn's GRASP Lab.
+I'm a CS graduate student passionate about building intelligent systems that actually work in the real world. Currently studying a Master's in Computer Science while working on robotics research at UPenn's GRASP Lab.
 
 **What drives me:** The gap between research and reality. I love taking cutting-edge ideas and figuring out how to make them robust enough for real applications.
 
