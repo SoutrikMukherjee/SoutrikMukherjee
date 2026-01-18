@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Robotics Engineer • AI Architect • Systems Enthusiast</h3>
+  <h3>AI/ML Engineer • Robotics Engineer • Mechanical Design Engineer r</h3>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+systems+that+touch+the+physical+world.;Bridging+perception%2C+planning+%26+control.;Optimizing+AI+for+the+Edge.)](https://git.io/typing-svg)
   
