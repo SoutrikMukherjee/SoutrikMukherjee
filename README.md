@@ -1,119 +1,240 @@
 <div align="center">
-  
-<!-- Custom animated header with gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a2e,100:16213e&height=220&section=header&text=Soutrik%20Mukherjee&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descSize=20&descAlignY=55&descColor=7dd3fc" width="100%"/>
 
-<!-- Animated subtitle -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=LLMs+%7C+Deep+Learning+%7C+NLP+%7C+Computer+Vision;From+Research+to+Production+ML+Systems" alt="Typing SVG" /></a>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER BLOCK                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1b2a,50:1b2838,75:1a3a4a,100:0d2137&height=250&section=header&text=SOUTRIK%20MUKHERJEE&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=30&desc=⚙️%20Where%20Mechanical%20Engineering%20Meets%20Artificial%20Intelligence%20🧠&descSize=16&descAlignY=52&descColor=8b949e" width="100%"/>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=I+live+on+the+intersection+of+hardware+%26+software;Robots+%E2%80%A2+Neural+Networks+%E2%80%A2+Simulation+%E2%80%A2+Design;From+CAD+geometry+to+GPU+kernels" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Contact badges with consistent styling -->
-<a href="https://www.soutrikm.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-soutrikm.com-0f0f23?style=for-the-badge&labelColor=1a1a2e"/></a>
-<a href="https://linkedin.com/in/soutrik-mukherjee"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:soutrik.viratech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/📍_Philadelphia-PA-0f0f23?style=for-the-badge&labelColor=1a1a2e"/>
+<!-- Contact row -->
+<a href="https://www.soutrikm.com/"><img src="https://img.shields.io/badge/Portfolio-soutrikm.com-58a6ff?style=flat-square&labelColor=0d1117"/></a>&nbsp;
+<a href="https://linkedin.com/in/soutrik-mukherjee"><img src="https://img.shields.io/badge/LinkedIn-soutrik--mukherjee-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>&nbsp;
+<a href="mailto:soutrik.viratech@gmail.com"><img src="https://img.shields.io/badge/Email-soutrik.viratech-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>&nbsp;
+<img src="https://img.shields.io/badge/📍-Philadelphia,_PA-8b949e?style=flat-square&labelColor=0d1117"/>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   THE INTERSECTION VISUAL                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+```
+                    ┌─────────────────────────────────────────────────────────────┐
+                    │                                                             │
+                    │        MECHANICAL ENGINEERING    ∩    COMPUTER SCIENCE       │
+                    │                                                             │
+                    │     Finite Elements ───────┐  ┌─────── Deep Learning        │
+                    │     CAD / Geometry ─────────┤  ├─────── Computer Vision      │
+                    │     Dynamics & Control ─────┤  ├─────── Reinforcement RL     │
+                    │     Topology Optimization ──┤  ├─────── Neural Networks      │
+                    │     HPC / Parallel Compute ─┤  ├─────── LLMs & NLP          │
+                    │     Robotics Kinematics ────┤  ├─────── Perception & SLAM    │
+                    │     Thermal / Fluids ───────┤  ├─────── Physics-Informed NN  │
+                    │     Manufacturing ──────────┘  └─────── Edge Deployment      │
+                    │                                                             │
+                    │               ▼  I BUILD AT THIS INTERSECTION  ▼            │
+                    │                                                             │
+                    │      🤖  Robotics  ·  🧠  AI/ML  ·  🔧  Simulation          │
+                    │      📐  CAD/Computational Design  ·  ⚡  HPC               │
+                    │                                                             │
+                    └─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding animation"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### `> whoami`
+### `$ cat /about/soutrik.yaml`
 
 ```yaml
-name: Soutrik Mukherjee
-role: AI/ML Engineer
+identity:
+  tagline: "I live on the intersection of Mechanical Engineering & Computer Science — between hardware and software."
+  
+  what_I_do:
+    - Train LLMs and deploy ML systems at scale
+    - Optimize FEA solvers with parallel compute (MKL, OpenMP, CUDA)
+    - Build perception + planning stacks for robotic systems (ROS 2)
+    - Design physics-informed neural networks for simulation
+    - Create computational geometry pipelines from CAD to mesh to solver
 
-education:
-  - MS Computer Science @ Harrisburg University
-    specialization: Artificial Intelligence
-    gpa: 3.8/4.0
-    
-  - MS Mechanical Engineering @ UPenn
-    specialization: Intelligent Systems
-    
-  - BTech @ NIT Rourkela
-    gpa: 9.19/10.0 (Highest in cohort of 120)
+  philosophy: |
+    I don't pick sides between the physical and digital.
+    The best engineering happens when you understand both the differential equation AND the GPU kernel.
+    When you can sketch a mechanism AND write the controller that drives it.
+    When your FEA mesh and your neural network share the same intuition about stress fields.
 
-focus: 
-  - Large Language Models & Fine-tuning
-  - Deep Learning & Neural Architectures
-  - NLP & Semantic Search Systems
-  - ML Infrastructure & Deployment
+  currently: Actively seeking AI/ML · Robotics · Simulation · Computational Design roles
 ```
 
-<br clear="right"/>
-
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       EDUCATION                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎓 Education
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Harrisburg_University-0f0f23?style=for-the-badge&labelColor=1a1a2e" /><br/>
-<b>MS Computer Science</b><br/>
-<sub>AI Specialization · GPA: 3.8</sub><br/>
-<sub>Mar 2024 → Feb 2026</sub>
+
+<img src="https://img.shields.io/badge/-Harrisburg_University-58a6ff?style=for-the-badge&labelColor=0d1117" />
+
+**MS Computer Science**  
+*Artificial Intelligence Specialization*
+
+`GPA: 3.8 / 4.0`  
+`Mar 2024 → Feb 2026`
+
+<sub>GPU-accelerated transformer inference · Big Data Architecture · Applied ML</sub>
+
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/UPenn-011F5B?style=for-the-badge" /><br/>
-<b>MS Mechanical Engineering</b><br/>
-<sub>Intelligent Systems · GRASP Lab</sub><br/>
-<sub>Aug 2022 → Jan 2024</sub>
+
+<img src="https://img.shields.io/badge/-University_of_Pennsylvania-011F5B?style=for-the-badge" />
+
+**MS Mechanical Engineering**  
+*Intelligent Systems · GRASP Robotics Lab*
+
+`Aug 2022 → Jan 2024`
+
+<sub>7-DOF manipulators · Modular robotics · ROS 2 · Perception systems</sub>
+
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/NIT_Rourkela-800000?style=for-the-badge" /><br/>
-<b>BTech Industrial Design</b><br/>
-<sub>🥇 Highest GPA: 9.19/10</sub><br/>
-<sub>Jun 2018 → May 2022</sub>
+
+<img src="https://img.shields.io/badge/-NIT_Rourkela-8b0000?style=for-the-badge" />
+
+**BTech Industrial Design**  
+*Mechanical Engineering Minor*
+
+`🥇 GPA: 9.19/10 — #1 in cohort of 120`  
+`Jun 2018 → May 2022`
+
+<sub>Product design · CAD/CAM · Manufacturing · 3 first-author publications</sub>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🏛️ Professional Experience
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      EXPERIENCE                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏗️ Experience
+
+> Each role sits somewhere on the hardware ↔ software spectrum. That's the point.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🔬 Research & LLM Development
-
-**Research Assistant** `Apr 2024 → Present`  
-*Harrisburg University - CS Department*
-- Pre-trained **Google's CANINE** character-level LLM on **380k word** corpus using Biased Random Sampling
-- Achieved **56% game accuracy** matching Human-Level Performance
-- Implemented novel **self-play fine-tuning** reaching **63% accuracy** (6 guesses) and **87% accuracy** (10 guesses)
-
-**Graduate Researcher** `Mar 2023 → Mar 2024`  
-*UPenn GRASP Lab*
-- Built dynamic auto-tagging with **Pydantic + GPT-4o Structured Outputs**
-- Designed clause detection agent achieving **95% recall**
-- Implemented **Semantic Search** pipeline with FAISS + vector embeddings
-- Created **Agentic Chunking** tool preserving context across documents
-- Built OCR extraction pipeline using **Gemini 2.0 Flash**
+<td width="15%" align="center">
+  
+**🧠**  
+`SOFTWARE`  
+`│`  
+`│`  
+`│`  
+`│`  
+`│`  
+`│`  
+`│`  
+`│`  
+`│`  
+`│`  
+`│`  
+`│`  
+`│`  
+`▼`  
+**⚙️**  
+`HARDWARE`
 
 </td>
-<td width="50%" valign="top">
+<td width="85%">
 
-### ⚡ ML Engineering & Optimization
+<!-- Role 1 — Pure Software / ML -->
+<details open>
+<summary><b>🔬 Research Assistant — LLM Pre-training & Self-Play</b>&nbsp;&nbsp;<code>Harrisburg University · Apr 2024 → Present</code></summary>
+<br/>
 
-**Research Intern** `Jun 2025 → Aug 2025`  
-*BlueRidge Compliance Partners*
-- Optimized C++ FEA solver with **Intel MKL** & **OpenMP**: **40% speedup**
-- Parallelized 1000s of Matrix-Vector operations
-- Implemented concurrent **GMRES algorithm** with optimal memory usage
-- Trained & deployed **TensorFlow** models for predictive IC modeling
+| What | Detail |
+|------|--------|
+| **Pre-trained** | Google's CANINE character-level LLM on **380k word** corpus with Biased Random Sampling |
+| **Achieved** | **56% game accuracy** matching human-level performance |
+| **Innovated** | Novel self-play fine-tuning → **63% @ 6 guesses**, **87% @ 10 guesses** |
+| **Stack** | `PyTorch` `HuggingFace Transformers` `CANINE` `Self-Play RL` |
 
-**Summer Research Fellow** `Apr 2021 → Aug 2021`  
-*Indian Academy of Sciences*
-- Optimized industrial processes through structured experiments
-- Implemented **computer vision** tools for automated quality inspection
-- Built feedback control systems for process stabilization
+</details>
+
+<!-- Role 2 — Software + Domain / NLP + Documents -->
+<details>
+<summary><b>📄 Graduate Researcher — NLP & Intelligent Document Processing</b>&nbsp;&nbsp;<code>UPenn GRASP Lab · Mar 2023 → Mar 2024</code></summary>
+<br/>
+
+| What | Detail |
+|------|--------|
+| **Built** | Dynamic auto-tagging with **Pydantic + GPT-4o Structured Outputs** |
+| **Designed** | Clause detection agent → **95% recall** |
+| **Implemented** | Semantic Search pipeline: **FAISS + vector embeddings** |
+| **Created** | Agentic Chunking tool preserving cross-document context |
+| **Deployed** | OCR extraction pipeline using **Gemini 2.0 Flash** |
+| **Stack** | `LangChain` `FAISS` `Pydantic` `GPT-4o` `Gemini` `PostgreSQL` |
+
+</details>
+
+<!-- Role 3 — HPC / Simulation — bridge of hardware & software -->
+<details>
+<summary><b>⚡ Research Intern — HPC Solver Optimization & ML</b>&nbsp;&nbsp;<code>BlueRidge Compliance Partners · Jun 2025 → Aug 2025</code></summary>
+<br/>
+
+| What | Detail |
+|------|--------|
+| **Optimized** | C++ FEA solver with **Intel MKL + OpenMP** → **40% speedup** |
+| **Parallelized** | 1000s of matrix-vector operations across cores |
+| **Implemented** | Concurrent **GMRES algorithm** with optimal memory access patterns |
+| **Trained** | **TensorFlow** models for predictive integrated circuit modeling |
+| **Stack** | `C++` `Intel MKL` `OpenMP` `TensorFlow` `FEA` `GMRES` |
+
+</details>
+
+<!-- Role 4 — Robotics — deep hardware + software -->
+<details>
+<summary><b>🤖 Graduate Researcher — Robotics & Manipulation</b>&nbsp;&nbsp;<code>UPenn GRASP Lab · Aug 2022 → Mar 2023</code></summary>
+<br/>
+
+| What | Detail |
+|------|--------|
+| **Developed** | Perception + planning pipeline for **7-DOF robotic manipulators** |
+| **Built** | Modular robotics reconfiguration system |
+| **Integrated** | **ROS 2** navigation stack with real-time sensor fusion |
+| **Designed** | Hardware-in-the-loop (HIL) simulation environments |
+| **Stack** | `ROS 2` `Python` `C++` `MoveIt` `Gazebo` `SLAM` |
+
+</details>
+
+<!-- Role 5 — Manufacturing / Physical Systems -->
+<details>
+<summary><b>🔧 Summer Research Fellow — Computer Vision for Manufacturing</b>&nbsp;&nbsp;<code>Indian Academy of Sciences · Apr 2021 → Aug 2021</code></summary>
+<br/>
+
+| What | Detail |
+|------|--------|
+| **Optimized** | Industrial processes through structured DOE experiments |
+| **Implemented** | Computer vision tools for **automated quality inspection** |
+| **Built** | Feedback control systems for process stabilization |
+| **Stack** | `Python` `OpenCV` `MATLAB` `Experimental Design` |
+
+</details>
 
 </td>
 </tr>
@@ -121,99 +242,173 @@ focus:
 
 ---
 
-## 🧠 Technical Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TECHNICAL STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Technical Stack — Across the Full Spectrum
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+```
+  SOFTWARE LAYER                              HARDWARE LAYER
+  ─────────────                              ──────────────
+  
+  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+  │  AI / ML     │    │  Robotics    │    │  Simulation  │    │  Design/CAD  │
+  │              │    │              │    │              │    │              │
+  │  PyTorch     │    │  ROS 2       │    │  FEA/FEM     │    │  SolidWorks  │
+  │  TensorFlow  │───▶│  MoveIt      │───▶│  OpenMP/MKL  │───▶│  CATIA       │
+  │  HuggingFace │    │  Gazebo      │    │  GMRES       │    │  AutoCAD     │
+  │  LangChain   │    │  SLAM        │    │  ANSYS       │    │  Rhino/GH    │
+  │  FAISS       │    │  OpenCV      │    │  CUDA        │    │  Topology    │
+  │  Spark       │    │  PCL         │    │  PINNs       │    │  Optimization │
+  └──────────────┘    └──────────────┘    └──────────────┘    └──────────────┘
+         │                   │                   │                   │
+         └───────────────────┴───────────────────┴───────────────────┘
+                                     │
+                            ┌────────┴────────┐
+                            │  Python · C++   │
+                            │  SQL · R        │
+                            │  MATLAB · Bash  │
+                            └─────────────────┘
+```
 
-### Deep Learning & ML Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+</div>
 
-### LLM & NLP Tools
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+<div align="center">
 
-### Data & Compute
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![OpenMP](https://img.shields.io/badge/OpenMP-183A61?style=for-the-badge)
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### Infrastructure & MLOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+#### AI / ML / Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+#### Robotics & Perception
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-orange?style=flat-square)
+![MoveIt](https://img.shields.io/badge/MoveIt-1a1a2e?style=flat-square)
+![PCL](https://img.shields.io/badge/Point_Cloud_Lib-3DDC84?style=flat-square)
+
+#### Simulation & HPC
+![OpenMP](https://img.shields.io/badge/OpenMP-183A61?style=flat-square)
+![IntelMKL](https://img.shields.io/badge/Intel_MKL-0071C5?style=flat-square&logo=intel&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat-square)
+![FEA](https://img.shields.io/badge/FEA/FEM-2C3E50?style=flat-square)
+
+#### CAD & Computational Design
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autodesk&logoColor=white)
+![Rhino](https://img.shields.io/badge/Rhino_+_Grasshopper-801010?style=flat-square)
+
+#### Infrastructure & Data
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🧠 Character-Level LLM Training</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/CANINE-00D4FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Self--Play-76B900?style=flat-square" />
-</p>
+### 🧠 Character-Level LLM Pre-training
+![CANINE](https://img.shields.io/badge/CANINE-58a6ff?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
+![Self-Play](https://img.shields.io/badge/Self--Play_RL-76B900?style=flat-square)
 
-Pre-trained Google's CANINE on 380k words with custom sampling strategies. Novel self-play fine-tuning achieved **87% accuracy** — surpassing human-level performance.
+Pre-trained Google's CANINE on 380k words with custom Biased Random Sampling. Novel self-play fine-tuning achieved **87% accuracy** — surpassing human-level.
+
+`Domain: AI/ML`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">📄 Intelligent Document Processing</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square" />
-</p>
+### ⚡ HPC FEA Solver Optimization
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
+![MKL](https://img.shields.io/badge/Intel_MKL-0071C5?style=flat-square)
+![OpenMP](https://img.shields.io/badge/OpenMP-183A61?style=flat-square)
 
-End-to-end NLP pipeline: auto-tagging via structured outputs, clause detection with **95% recall**, semantic search, and agentic chunking for enterprise workflows.
+Parallelized C++ finite element solver achieving **40% speedup**. Concurrent GMRES algorithm with optimized memory access patterns for large-scale simulation.
+
+`Domain: Simulation · HPC`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">⚡ Neural Network Compiler</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MLIR-76B900?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Edge_Deployment-FF6B6B?style=flat-square" />
-</p>
+### 📄 Intelligent Document Processing
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
 
-Converting PyTorch models to optimized machine code. Making deep learning inference viable on resource-constrained edge devices.
+End-to-end NLP pipeline: auto-tagging via structured outputs, clause detection with **95% recall**, semantic search, and agentic chunking for enterprise workflows.
+
+`Domain: AI/ML · NLP`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🔧 HPC Solver Optimization</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Intel_MKL-0071C5?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenMP-183A61?style=flat-square" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square" />
-</p>
+### 🤖 6-DOF Grasp Pose Estimation
+![PointNet](https://img.shields.io/badge/PointNet-EE4C2C?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square)
 
-Parallelized FEA computational solver achieving **40% speedup**. Concurrent GMRES algorithm with optimized memory access patterns.
+Deep learning on 3D point clouds for robotic grasping. PointNet-based architecture predicting grasp poses for unknown objects in cluttered scenes.
+
+`Domain: Robotics · Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Neural Network Compiler for Edge
+![MLIR](https://img.shields.io/badge/MLIR-76B900?style=flat-square)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat-square)
+![Edge](https://img.shields.io/badge/Edge_Deploy-FF6B6B?style=flat-square)
+
+Converting PyTorch models to optimized machine code via MLIR/LLVM. Making deep learning inference viable on resource-constrained edge devices.
+
+`Domain: AI/ML · Systems`
+
+</td>
+<td width="50%" valign="top">
+
+### 📐 Topology Optimization with PINNs
+![PINNs](https://img.shields.io/badge/PINNs-FF6F00?style=flat-square)
+![FEA](https://img.shields.io/badge/FEA-2C3E50?style=flat-square)
+![Published](https://img.shields.io/badge/📄_Published-green?style=flat-square)
+
+Physics-Informed Neural Networks for structural topology optimization of headphones. ML-driven generative design replacing traditional iterative FEA loops.
+
+`Domain: Simulation · Computational Design`
 
 </td>
 </tr>
@@ -221,84 +416,83 @@ Parallelized FEA computational solver achieving **40% speedup**. Concurrent GMRE
 
 ---
 
-## 🔬 Specialized Domains
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PUBLICATIONS                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+## 📚 Publications — 3 First-Author Papers
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                   ║
-║   🔤 LLM Fine-tuning & Pre-training    ·    📊 Transformer Architectures          ║
-║   🔍 Semantic Search & Embeddings      ·    🧬 Physics-Informed Neural Networks   ║
-║   🌊 Diffusion Models                  ·    🕸️ Graph Neural Networks              ║
-║   🔐 Federated Learning                ·    📝 Synthetic Data Generation          ║
-║                                                                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+| # | Title | Domain Intersection | DOI |
+|---|-------|---------------------|-----|
+| 1 | **Structural Optimization Using Topology Optimization** | `Simulation` `Computational Design` `PINNs` | [10.35940/ijrte.F7462.0712223](https://doi.org/10.35940/ijrte.F7462.0712223) |
+| 2 | **Bi-Directional Drone Path Planning for Agriculture** | `Robotics` `RL` `ROS 2` `Path Planning` | [10.35940/ijrte.B6393.0910321](https://doi.org/10.35940/ijrte.B6393.0910321) |
+| 3 | **Automatic Rotating System for Industrial De-scaling** | `Manufacturing` `Automation` `System Design` | [10.35940/ijrte.B6395.0910321](https://doi.org/10.35940/ijrte.B6395.0910321) |
 
 ---
 
-## 📚 Publications
-
-<details>
-<summary><b>🔬 Click to expand research publications</b></summary>
-<br/>
-
-| Title | Focus Area | Link |
-|-------|-----------|------|
-| **Structural Optimization Using Topology Optimization** | Physics-Informed Neural Networks, Design Optimization | [DOI: 10.35940/ijrte.F7462.0712223](https://doi.org/10.35940/ijrte.F7462.0712223) |
-| **Bi-Directional Drone Path Planning for Agriculture** | Reinforcement Learning, RLHF | [DOI: 10.35940/ijrte.B6393.0910321](https://doi.org/10.35940/ijrte.B6393.0910321) |
-| **Automatic Rotating System for Industrial De-scaling** | System Architecture, Automation | [DOI: 10.35940/ijrte.B6395.0910321](https://doi.org/10.35940/ijrte.B6395.0910321) |
-
-</details>
-
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB ANALYTICS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SoutrikMukherjee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SoutrikMukherjee&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SoutrikMukherjee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SoutrikMukherjee&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoutrikMukherjee&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff" width="98%" />
-</div>
-
----
-
-## 🤝 Community Impact
-
-<div align="center">
-
-| 🎓 **MANAV Foundation** | 🧠 **Peer Mentoring** |
-|:---:|:---:|
-| Founder & Director since 2019 | Institute Student Counseling |
-| Bridging rural tech education gap | Mental health support |
-| **12 schools · 200+ students** | NIT Rourkela |
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoutrikMukherjee&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="98%" />
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  COMMUNITY IMPACT                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🤝 Beyond Code
+
 <div align="center">
 
-### 💬 Let's Connect
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🎓  MANAV Foundation  ·  Founded 2019                         ║
+║       Bridging the rural education gap in India                  ║
+║       12 government schools · 200+ students                     ║
+║       Teaching STEM, math, and technology                        ║
+║                                                                  ║
+║   🧠  Institute Student Counselor  ·  NIT Rourkela              ║
+║       Peer mental health support and academic mentoring          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 💬 Let's build something at the intersection.
 
 <a href="mailto:soutrik.viratech@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-soutrik.viratech@gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/📬_Email_Me-soutrik.viratech@gmail.com-58a6ff?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SoutrikMukherjee&color=00d4ff&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=SoutrikMukherjee&color=58a6ff&style=flat-square&label=Profile+Views" />
 
 <br/><br/>
 
-*"Building AI systems that scale from research to production"*
+*"The best engineering happens when you understand both the differential equation and the GPU kernel."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a2e,100:16213e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1b2a,50:1b2838,75:1a3a4a,100:0d2137&height=120&section=footer" width="100%"/>
