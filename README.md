@@ -92,7 +92,7 @@ identity:
 **MS Computer Science**  
 *Artificial Intelligence Specialization*
 
-`GPA: 3.8 / 4.0`  
+`GPA: 3.7 / 4.0`  
 `Mar 2024 → Feb 2026`
 
 <sub>GPU-accelerated transformer inference · Big Data Architecture · Applied ML</sub>
@@ -117,7 +117,7 @@ identity:
 **BTech Industrial Design**  
 *Mechanical Engineering Minor*
 
-`🥇 GPA: 9.19/10 — #1 in cohort of 120`  
+`🥇 GPA: 9.08/10 — #1 in cohort of 120`  
 `Jun 2018 → May 2022`
 
 <sub>Product design · CAD/CAM · Manufacturing · 3 first-author publications</sub>
