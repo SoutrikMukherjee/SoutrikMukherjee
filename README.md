@@ -259,22 +259,6 @@ Pre-trained Google's CANINE on a 380k-word corpus with Biased Random Sampling; s
 
 ---
 
-## 📊 GitHub Pulse
-
-<div align="center">
-
-<a href="https://github.com/SoutrikMukherjee">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SoutrikMukherjee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoutrikMukherjee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoutrikMukherjee&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=bc8cff&area=true&area_color=134e4a" width="95%"/>
-
-</div>
-
----
 
 ## 📄 Publications
 
